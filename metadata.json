@@ -1,1 +1,1 @@
-{"tfjsSpeechCommandsVersion":"0.4.0","modelName":"TMv2","timeStamp":"2021-05-18T02:50:21.744Z","wordLabels":["Background Noise","台北樹蛙","史丹吉氏小雨蛙","日本樹蛙","橙腹樹蛙","莫氏樹蛙","虎皮蛙","褐樹蛙","諸羅樹蛙"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-05-27T09:06:17.397Z","userMetadata":{},"modelName":"My image model","labels":["大象","馬","狗"]}
